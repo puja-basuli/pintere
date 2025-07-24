@@ -1,1 +1,1 @@
-# unsplashclone
+# PINTEREST CLONE
